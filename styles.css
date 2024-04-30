@@ -4,3 +4,10 @@
     font-family:Verdana;
     font-style: oblique
    }
+   .blackfont
+   {
+    font-size:medium;
+    color: black;
+    font-family: Verdana;
+    font-weight: bold;
+   }
